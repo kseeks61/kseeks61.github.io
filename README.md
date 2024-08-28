@@ -18,7 +18,7 @@ B.A. in Economics at the University of Richmond
 • Delegated tasks and oversaw a crew of 3-5 members to ensure operational standards were being met.
 
 ###Activities/Campus Engagement
--Varsity Football Player at the University of Richmond
+- Varsity Football Player at the University of Richmond
 • Learned the core values of collaborative teamwork and time management by balancing a full academic course load while participating in 20-40 hours a week of practices, training sessions, travel, games, and meetings
 
 ###Skills
