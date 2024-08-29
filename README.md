@@ -1,10 +1,10 @@
-Data Scientist
+# Data Scientist
 
-Education:
+### Education:
 
 B.A. in Economics at the University of Richmond
 
-Work Experience:
+### Work Experience:
 
 - Data Scinece Intern at HopDrive
 
@@ -19,17 +19,17 @@ Work Experience:
 • Demonstrated exemplary customer service by maintaining the landscape for commercial and residential properties.
 • Delegated tasks and oversaw a crew of 3-5 members to ensure operational standards were being met.
 
-Activities/Campus Engagement:
+### Activities/Campus Engagement:
 
 - Varsity Football Player at the University of Richmond
 
 • Learned the core values of collaborative teamwork and time management by balancing a full academic course load while participating in 20-40 hours a week of practices, training sessions, travel, games, and meetings
 
-Skills:
+### Skills:
 
 - Strong written and oral communication, Analytical minded, Interpersonal skills, Adaptability, Strong work ethic, Problem-solving, Data Visualization and Analytics, Team player
 
-Computer Skills:
+### Computer Skills:
 
 - Demonstrates proficiency in Microsoft applications including Word, Excel, and Outlook
 - Working knowledge of programming applications of R, PostgreSQL
