@@ -40,4 +40,4 @@ Strong written and oral communication, Analytical minded, Interpersonal skills, 
 Demonstrates proficiency in Microsoft applications including Word, Excel, and Outlook
 Working knowledge of programming applications of R, PostgreSQL
 
-({{ site.kseeks61.github.io }}/docs/Kris-Seekford-Resume-2023-2.pdf)
+https://kseeks61.github.io/docs/Kris-Seekford-Resume-2023-2.pdf
